@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Digital Revolution](https://github.com/Ansonii11/Digital_Revolution)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, Astro, JavaScript, Python, Machine learning**
 
